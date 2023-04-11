@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jarak_14dp">14dp</dimen>
+    <dimen name="jarak_24dp">24dp</dimen>
+    <dimen name="jarak_20dp">20dp</dimen>
+</resources>
